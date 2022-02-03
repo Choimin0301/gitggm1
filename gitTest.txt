@@ -1,5 +1,5 @@
 반가워요~
-겜마고 신입생
+겜마고 신입생 => add 하고 커밋하고 푸시
 최민혁~ 이라고 합니다
 2반 친구들 반가워요~
 ctrl s가 저장이군요
@@ -14,3 +14,10 @@ git commit -m "최초 커밋"
 
 git config --global user.email "you@example.com"
 git config --global user.name "Your Name"
+
+일단 이렇게 써놓고
+git=햣
+https://github.com/Choimin0301/gitggm1.git
+
+개발자1과 개발자2모두 add와 커밋을수행하고
+개발자2만 푸시를 진행
